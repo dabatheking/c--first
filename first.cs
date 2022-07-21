@@ -1,1 +1,1 @@
-supi
+console.write
