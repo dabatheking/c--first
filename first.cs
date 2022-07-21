@@ -24,7 +24,7 @@ namespace HelloWorld
             }
             Console.WriteLine("enter your password");
             String password = (Console.ReadLine());
-            Console.WriteLine("that is your" + "password");
+            Console.WriteLine("that is your password " + password);
         }
     }
 }
